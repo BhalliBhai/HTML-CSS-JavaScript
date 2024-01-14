@@ -105,3 +105,75 @@
 .btn-2 a:hover:after {
   transform: rotateX(0);
 }
+
+/* Btn 3 */
+.btn-3{
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+  background: rgb(9,0,36);
+  background: linear-gradient(45deg, rgba(9,0,36,1) 0%, rgba(12,9,121,1) 10%, rgba(0,33,255,1) 20%, rgba(0,101,255,1) 30%, rgba(0,153,255,1) 40%, rgba(0,170,255,1) 50%, rgba(0,234,255,1) 60%, rgba(0,80,255,1) 70%, rgba(0,110,255,1) 81%, rgba(104,0,255,1) 90%, rgba(9,0,36,1) 100%);
+}
+
+.btn-3 a {
+  width: 300px;
+  height: 60px;
+  text-decoration: none;
+  text-transform: uppercase;
+  background: transparent;
+  text-align: center;
+  line-height: 60px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  position: relative;
+  transition: all 0.2s;
+  color: #fff;
+  z-index: 1;
+}
+
+.btn-3 a:before {
+  content: "";
+  position: absolute;
+  top: -3px;
+  left: -3px;
+  width: 100%;
+  height: 100%;
+  background: #06c988a4;
+  z-index: -1;
+  mix-blend-mode: multiply;
+  transition: all 0.2s;
+  transform-origin: top;
+}
+
+.btn-3 a:after {
+  content: "";
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  width: 100%;
+  height: 100%;
+  background: #ffff00a6;
+  z-index: -1;
+  mix-blend-mode: multiply;
+  transition: all 0.2s;
+  transform-origin: bottom;
+}
+
+.btn-3 a:hover:before {
+  top: -6px;
+  left: 0;
+  transform: perspective(1000px) rotateX(75deg);
+}
+
+.btn-3 a:hover:after {
+  top: 6px;
+  left: 0;
+  transform: perspective(1000px) rotateX(-75deg);
+}
+
+.btn-3 a:hover {
+  color: #000;
+}
+
