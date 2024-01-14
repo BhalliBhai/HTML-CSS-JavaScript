@@ -4,6 +4,13 @@
   box-sizing: border-box;
 }
 
+.heading{
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
 .btn {
   box-sizing: border-box;
   -webkit-appearance: none;
@@ -174,5 +181,51 @@
   color: #fff;
   background-position: 0 100%;
 }
+
+/* Btn 7 */
+
+.btn-7 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  /* background: rgb(16, 16, 16); */
+  background: rgb(9,0,36);
+  background: linear-gradient(45deg, rgba(9,0,36,1) 0%, rgba(12,9,121,1) 10%, rgba(0,33,255,1) 20%, rgba(0,101,255,1) 30%, rgba(0,153,255,1) 40%, rgba(0,170,255,1) 50%, rgba(0,234,255,1) 60%, rgba(0,80,255,1) 70%, rgba(0,110,255,1) 81%, rgba(104,0,255,1) 90%, rgba(9,0,36,1) 100%);
+  font-family: sans-serif;
+}
+
+.btn-7 a {
+  text-decoration: none;
+  color: antiquewhite;
+  border: 2px solid antiquewhite;
+  padding: 2rem 5rem;
+  position: relative;
+  overflow: hidden;
+  transition: all 1s;
+}
+
+.btn-7 a:before {
+  content: "DOWNLOAD";
+  font-weight: bold;
+  color: #000;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: antiquewhite;
+  transform: translateY(-100%);
+  transition: all 1s;
+  /* center */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-7 a:hover:before {
+  transform: translateY(0);
+}
+
 
 /* ---------------------------------------------- */
