@@ -32,6 +32,24 @@
   outline: 0;
 }
 
+/* Btn 1 */
+.btn-1 {
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+  background: #000;
+}
+.first {
+  transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+}
+.first:hover {
+  box-shadow: 0 0 40px 40px #e74c3c inset;
+}
+
+
+
 /* Btn 2 */
 .btn-2 {
   height: 50vh;
@@ -39,7 +57,7 @@
   justify-content: center;
   align-items: center;
   font-family: sans-serif;
-  background: #2c3e50;;
+  background: #2c3e50;
 }
 .second {
   border-radius: 3em;
@@ -80,7 +98,7 @@
   justify-content: center;
   align-items: center;
   font-family: sans-serif;
-  background: #000;
+  background: #2c3e50;
 }
 .fourth {
   border-color: #f1c40f;
@@ -140,7 +158,7 @@
   justify-content: center;
   align-items: center;
   font-family: sans-serif;
-  background: #000;
+  background: #2c3e50;
 }
 
 .sixth {
