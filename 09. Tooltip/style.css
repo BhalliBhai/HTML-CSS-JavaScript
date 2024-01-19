@@ -88,3 +88,34 @@ body {
   visibility: visible;
   opacity: 1;
 }
+
+/* Left */
+#tooltip-left {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+  background: #000;
+  color: #fff;
+  white-space: nowrap;
+  padding: 10px 15px;
+  border-radius: 7px;
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
+#tooltip-left::before {
+  content: "";
+  position: absolute;
+  right: -18%;
+  border: 15px solid;
+  border-color: #000 #0000 #0000 #0000;
+  transform: rotate(270deg);
+}
+
+#container:hover #tooltip-left {
+  left: -140%;
+  visibility: visible;
+  opacity: 1;
+}
