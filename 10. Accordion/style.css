@@ -50,6 +50,12 @@ body {
   transition: max-height 0.5s;
 }
 
+#accordion .content p{
+  padding-top: 7px;
+  border-top: 2px solid grey;
+  font-size: 16px;
+}
+
 #accordion label + input[type="radio"]:checked + .content {
   max-height: 400px;
 }
