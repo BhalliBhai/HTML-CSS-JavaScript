@@ -115,7 +115,40 @@ body {
 }
 
 #container:hover #tooltip-left {
-  left: -140%;
+  left: -120%;
+  visibility: visible;
+  opacity: 1;
+}
+
+
+/* Right */
+
+#tooltip-right {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+  background: #000;
+  color: #fff;
+  white-space: nowrap;
+  padding: 10px 15px;
+  border-radius: 7px;
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
+#tooltip-right::before {
+  content: "";
+  position: absolute;
+  left: -18%;
+  border: 15px solid;
+  border-color: #000 #0000 #0000 #0000;
+  transform: rotate(90deg);
+}
+
+#container:hover #tooltip-right {
+  right: -110%;
   visibility: visible;
   opacity: 1;
 }
