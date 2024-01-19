@@ -5,12 +5,12 @@
 }
 
 body {
-  background: crimson;
+  background: rgb(47, 92, 241);
   font-family: sans-serif;
 }
 
 #accordion {
-  margin: 100px auto;
+  margin: 50px auto;
   width: 600px;
 }
 
@@ -20,6 +20,7 @@ body {
   margin-bottom: 10px;
   background: #fff;
   padding: 10px;
+  border-radius: 10px;
 }
 
 #accordion li label {
@@ -27,9 +28,9 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  font-size: 18px;
-  font-weight: 500;
-  color: dodgerblue;
+  font-size: 16px;
+  font-weight: 600;
+  color: rgb(30, 45, 255);
   cursor: pointer;
 }
 
