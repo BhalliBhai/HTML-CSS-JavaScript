@@ -19,9 +19,9 @@ Click on the Title to open the Respective Folder
 <img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/05-CreativeButtons.png" alt="03">
 
 # 06 [Creative Menu](https://github.com/BhalliBhai/HTML-CSS-JavaScript/tree/main/06.%20Creative%20Menus)
-<img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/Menu%20(1).png" alt="03 menu1">
-<img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/Menu%20(2).png" alt="03 menu2">
-<img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/Menu%20(3).png" alt="03 menu3">
+<img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/Menu(1).png" alt="03 menu1">
+<img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/Menu(2).png" alt="03 menu2">
+<img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/Menu(3).png" alt="03 menu3">
 
 # 07 [Creative Image Effect]()
 <img src="" alt="03">
