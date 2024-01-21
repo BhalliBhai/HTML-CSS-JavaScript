@@ -9,8 +9,8 @@ Click on the Title to open the Respective Folder
 # 02 [Loading](https://github.com/BhalliBhai/HTML-CSS-JavaScript/tree/main/02.Creative%20Loading%20Animation)
 <img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/02-Loading.png" alt="03">
 
-# 03 [Custom Scrollbar]()
-<img src="" alt="03">
+# 03 [Custom Scrollbar](https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/03-customScrollbar.png)
+<img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/03-customScrollbar.png" alt="03">
 
 # 04 [Creative Image Hover Effects]()
 <img src="" alt="03">
