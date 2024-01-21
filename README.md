@@ -12,8 +12,8 @@ Click on the Title to open the Respective Folder
 # 03 [Custom Scrollbar](https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/03-customScrollbar.png)
 <img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/03-customScrollbar.png" alt="03">
 
-# 04 [Creative Image Hover Effects]()
-<img src="" alt="03">
+# 04 [Creative Image Hover Effects](https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/04-ImageHoverEffect.png)
+<img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/04-ImageHoverEffect.png" alt="03">
 
 # 05 [Creative Buttons]()
 <img src="" alt="03">
