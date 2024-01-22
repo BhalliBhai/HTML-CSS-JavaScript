@@ -32,8 +32,8 @@ Click on the Title to open the Respective Folder
 <img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/CreativeCard1.png" alt="01">
 <img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/CreativeCard2.png" alt="02">
 
-# 09 [Tooltip]()
-<img src="" alt="03">
+# 09 [Tooltip](https://github.com/BhalliBhai/HTML-CSS-JavaScript/tree/main/09.%20Tooltip)
+<img src="" alt="Tooltips">
 
 # 10 [Accordion]()
 <img src="" alt="03">
