@@ -33,7 +33,7 @@ Click on the Title to open the Respective Folder
 <img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/CreativeCard2.png" alt="02">
 
 # 09 [Tooltip](https://github.com/BhalliBhai/HTML-CSS-JavaScript/tree/main/09.%20Tooltip)
-<img src="" alt="Tooltips">
+<img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/Tooltip.png" alt="Tooltips">
 
 # 10 [Accordion]()
 <img src="" alt="03">
