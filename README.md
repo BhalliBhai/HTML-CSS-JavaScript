@@ -23,8 +23,10 @@ Click on the Title to open the Respective Folder
 <img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/Menu(2).png" alt="03 menu2">
 <img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/Menu(3).png" alt="03 menu3">
 
-# 07 [Creative Image Effect]()
-<img src="" alt="03">
+# 07 [Creative Image Effect](https://github.com/BhalliBhai/HTML-CSS-JavaScript/tree/main/07.%20Creative%20Image%20Effect)
+<img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/imageEffect1.png" alt="01">
+<img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/imageEffect2.png" alt="02">
+<img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/imageEffect3.png" alt="03">
 
 # 08 [Creative Cards]()
 <img src="" alt="03">
