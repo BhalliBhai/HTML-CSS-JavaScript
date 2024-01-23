@@ -37,3 +37,6 @@ Click on the Title to open the Respective Folder
 
 # 10 [Accordion](https://github.com/BhalliBhai/HTML-CSS-JavaScript/tree/main/10.%20Accordion)
 <img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/Acoordion.png" alt="Accordion">
+
+# 11 [ScrollBar]()
+<img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/Acoordion.png" alt="Accordion">

@@ -4,18 +4,21 @@ body {
   align-items: center;
   font-family: sans-serif;
   color: #fff;
+  background: rgb(9,0,36);
+  background: linear-gradient(45deg, rgba(9,0,36,1) 0%, rgba(12,9,121,1) 10%, rgba(0,33,255,1) 20%, rgba(0,101,255,1) 30%, rgba(0,153,255,1) 40%, rgba(0,170,255,1) 50%, rgba(0,234,255,1) 60%, rgba(0,80,255,1) 70%, rgba(0,110,255,1) 81%, rgba(104,0,255,1) 90%, rgba(9,0,36,1) 100%);
 }
 
 .scroll-container {
   background: rgb(7, 7, 7);
   width: 25rem;
   padding: 30px;
+  border-radius: 10px;
 }
 
 .scroll-div {
   width: 400px;
   height: 500px;
-  background: rgb(7, 7, 7);
+  background: transparent;
   overflow: hidden;
   overflow-y: scroll;
 }
