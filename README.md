@@ -41,5 +41,5 @@ Click on the Title to open the Respective Folder
 # 11 [ScrollBar](https://github.com/BhalliBhai/HTML-CSS-JavaScript/tree/main/11.%20Scrollbar)
 <img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/ScrollBar.png" alt="Accordion">
 
-# 12 []()
-<img src="" alt="">
+# 12 [Image Bg Text](https://github.com/BhalliBhai/HTML-CSS-JavaScript/tree/main/12.%20Image%20Bg%20Text)
+<img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/imageBgText.png" alt="Image Bg Text">
