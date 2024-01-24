@@ -12,13 +12,13 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #000;
+  background: #ffffff;
 }
 
 .heading {
   font-size: 10rem;
   font-weight: 900;
-  background: url(https://images.unsplash.com/photo-1446329813274-7c9036bd9a1f?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170);
+  background: url(https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?q=80&w=1489&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
   background-size: cover;
   background-clip: text;
   -webkit-background-clip: text;
