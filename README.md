@@ -45,4 +45,7 @@ Click on the Title to open the Respective Folder
 <img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/imageBgText.png" alt="Image Bg Text">
 
 # 13 [Page Scroll Indicator](https://github.com/BhalliBhai/HTML-CSS-JavaScript/tree/main/13.%20Page%20Scroll%20Indicator)
+<img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/Page-Scroll-Indicator.png" alt="Page Scroll Indicator">
+
+# 14 []()
 <img src="" alt="">
