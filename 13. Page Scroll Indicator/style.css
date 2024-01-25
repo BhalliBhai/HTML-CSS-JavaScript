@@ -15,12 +15,13 @@ body {
 }
 
 .scroll-indicator {
-  height: 5px;
+  height: 10px;
   width: calc(100% - 6em);
   position: fixed;
-  top: 10px;
+  top: 5px;
   left: 3em;
   border-radius: 3px;
+  z-index: 9;
 }
 
 .scroll-indicator .progress {
