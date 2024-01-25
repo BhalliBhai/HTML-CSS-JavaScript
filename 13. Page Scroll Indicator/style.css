@@ -32,9 +32,10 @@ body {
 }
 
 section {
-  border: 2px solid white;
+  border: 1px solid white;
   margin: 20px 0;
   padding: 20px;
+  border-radius: 10px;
 }
 
 section h1 {
