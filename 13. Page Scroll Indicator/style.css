@@ -15,7 +15,7 @@ body {
 }
 
 .scroll-indicator {
-  height: 10px;
+  height: 7px;
   width: calc(100% - 6em);
   position: fixed;
   top: 5px;
@@ -28,7 +28,7 @@ body {
   height: 100%;
   width: 0;
   border-radius: 3px;
-  background: linear-gradient(30deg, #21d4fd, #b721ff);
+  background: linear-gradient(30deg, #b1ddf1, #fccb06);
   transition: width 0.1s;
 }
 
