@@ -5,7 +5,8 @@
 }
 
 :root {
-  --main-color: #dc143c;
+  --primary-color: #AA0000;
+  --secondry-color: #FF033E;
 }
 
 body {
@@ -18,7 +19,7 @@ body {
 
 /* gray-heart */
 .gray-heart {
-  background: #ccc;
+  background: #AA0000;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -32,7 +33,7 @@ body {
 .gray-heart:before,
 .gray-heart:after {
   content: "";
-  background: #ccc;
+  background: #AA0000;
   border-radius: 50%;
   height: 100px;
   width: 100px;
