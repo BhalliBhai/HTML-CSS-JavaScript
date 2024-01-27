@@ -1,4 +1,4 @@
-const grayHeart = document.querySelector(".gray-heart");
+const grayHeart = document.querySelector(".main-heart");
 const redHeart = document.querySelector(".red-heart");
 
 grayHeart.addEventListener("click", () => {
