@@ -1,12 +1,12 @@
-const grayHeart = document.querySelector(".main-heart");
+const heart = document.querySelector(".main-heart");
 const redHeart = document.querySelector(".red-heart");
 
-grayHeart.addEventListener("click", () => {
+heart.addEventListener("click", () => {
   redHeart.classList.add("animation");
-  grayHeart.classList.add("fill-color");
+  heart.classList.add("fill-color");
 });
 
 redHeart.addEventListener("click", () => {
   redHeart.classList.remove("animation");
-  grayHeart.classList.remove("fill-color");
+  heart.classList.remove("fill-color");
 });
