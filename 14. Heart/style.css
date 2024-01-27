@@ -19,25 +19,25 @@ body {
 
 /* main-heart */
 .main-heart {
-  background: var(--primary-color);
+  height: 100px;
+  width: 100px;
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 100px;
-  height: 100px;
   position: relative;
   top: 0;
   transform: rotate(-45deg);
+  background: var(--primary-color);
 }
 
 .main-heart:before,
 .main-heart:after {
-  content: "";
-  background: var(--primary-color);
-  border-radius: 50%;
   height: 100px;
   width: 100px;
   position: absolute;
+  content: "";
+  background: var(--primary-color);
+  border-radius: 50%;
 }
 
 .main-heart:before {
@@ -52,25 +52,25 @@ body {
 
 /* red-heart */
 .red-heart {
-  background: var(--secondry-color);
-  display: flex;
-  justify-content: center;
-  align-items: center;
   height: 100px;
   width: 100px;
-  transform: rotate(-45deg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
   position: absolute;
   visibility: hidden;
+  transform: rotate(-45deg);
+  background: var(--secondry-color);
 }
 
 .red-heart:before,
 .red-heart:after {
-  content: "";
-  background: var(--secondry-color);
-  border-radius: 50%;
-  width: 100px;
   height: 100px;
+  width: 100px;
+  content: "";
   position: absolute;
+  border-radius: 50%;
+  background: var(--secondry-color);
 }
 
 .red-heart:before {
