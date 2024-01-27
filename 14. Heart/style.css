@@ -19,7 +19,7 @@ body {
 
 /* gray-heart */
 .gray-heart {
-  background: #AA0000;
+  background: var(--secondry-color);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -33,7 +33,7 @@ body {
 .gray-heart:before,
 .gray-heart:after {
   content: "";
-  background: #AA0000;
+  background: var(--secondry-color);
   border-radius: 50%;
   height: 100px;
   width: 100px;
@@ -93,6 +93,10 @@ body {
 }
 
 @keyframes pop {
+  0% {
+    transform: scale(1.7) rotate(-45deg);
+    opacity: 0;
+  }
   100% {
     transform: scale(1.7) rotate(-45deg);
     opacity: 0;
