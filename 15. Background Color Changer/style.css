@@ -17,12 +17,14 @@ h2 {
 }
 
 button {
-  padding: 15px;
-  background: transparent;
-  border: 2px solid white;overflow-x: auto;
   font-size: 18px;
   font-weight: 400;
   color: #fff;
+  padding: 15px;
+  border: 2px solid white;
+  border-radius: 10px;
+  background: transparent;
+  overflow-x: auto;
   transition: 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 
