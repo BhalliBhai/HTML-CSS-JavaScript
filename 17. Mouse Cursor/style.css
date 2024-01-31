@@ -42,6 +42,12 @@ button {
   cursor: pointer;
 }
 
+button:hover{
+  background: #fff;
+  color: #000;
+  border: 2px solid white;
+}
+
 /* JavaScript */
 div.cursor {
   position: absolute;
@@ -53,4 +59,5 @@ div.cursor {
   border-radius: 50%;
   transform: translate(-50%, -50%);
   border: 2px solid white;
+  z-index: -1;
 }
