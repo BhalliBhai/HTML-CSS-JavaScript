@@ -56,5 +56,5 @@ Click on the Title to open the Respective Folder
 # 16 [Auto Typing Text](https://github.com/BhalliBhai/HTML-CSS-JavaScript/tree/main/16.%20Auto%20Typing%20Text)
 <img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/AutoTypingText.png" alt="Auto Typing Text">
 
-# 17 []()
-<img src="" alt="">
+# 17 [Mouse Cursor](https://github.com/BhalliBhai/HTML-CSS-JavaScript/tree/main/17.%20Mouse%20Cursor)
+<img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/MouseCursor.png" alt="Mouse Cursor">
