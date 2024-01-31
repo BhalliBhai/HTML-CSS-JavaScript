@@ -53,5 +53,5 @@ Click on the Title to open the Respective Folder
 # 15 [Background Color Changer](https://github.com/BhalliBhai/HTML-CSS-JavaScript/tree/main/15.%20Background%20Color%20Changer)
 <img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/BackgorundChange.png" alt="Backgorund Color Change">
 
-# 16 [Auto Typing Text]()
-<img src="" alt="">
+# 16 [Auto Typing Text](https://github.com/BhalliBhai/HTML-CSS-JavaScript/tree/main/16.%20Auto%20Typing%20Text)
+<img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/AutoTypingText.png" alt="Auto Typing Text">
