@@ -59,6 +59,6 @@ Click on the Title to open the Respective Folder
 # 17 [Mouse Cursor](https://github.com/BhalliBhai/HTML-CSS-JavaScript/tree/main/17.%20Mouse%20Cursor)
 <img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/MouseCursor.png" alt="Mouse Cursor">
 
-# 18 [Color Toggle]()
-<img src="" alt="Dark Mod">
-<img src="" alt="Light Mod">
+# 18 [Color Toggle](https://github.com/BhalliBhai/HTML-CSS-JavaScript/tree/main/19.%20Color%20Toggler)
+<img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/ColorToggleDark.png" alt="Dark Mod">
+<img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/ColorToggleLight.png" alt="Light Mod">
