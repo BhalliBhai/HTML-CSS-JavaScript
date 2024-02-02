@@ -60,8 +60,8 @@ Click on the Title to open the Respective Folder
 <img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/MouseCursor.png" alt="Mouse Cursor">
 
 # 18 [Video Trailer PopUp](https://github.com/BhalliBhai/HTML-CSS-JavaScript/tree/main/18.%20Video%20Trailer%20Popup)
-<img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/ColorToggleDark.png" alt="Dark Mod">
-<img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/ColorToggleLight.png" alt="Light Mod">
+<img src="" alt="Cover">
+<img src="" alt="Video">
 
 # 19 [Color Toggle](https://github.com/BhalliBhai/HTML-CSS-JavaScript/tree/main/19.%20Color%20Toggler)
 <img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/ColorToggleDark.png" alt="Dark Mod">
