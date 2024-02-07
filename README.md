@@ -68,9 +68,9 @@ Click on the Title to open the Respective Folder
 <img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/ColorToggleLight.png" alt="Light Mod">
 
 # 20 [Animated Navbar](https://github.com/BhalliBhai/HTML-CSS-JavaScript/tree/main/20.%20Animated%20Navigation)
-<img src="" alt="">
-<img src="" alt="">
-
-# 21 []()
 <img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/AnimatedNavbarClosed.png" alt="Navbar Closed">
 <img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/AnimatedNavbarOpen.png" alt="Navbar Open">
+
+# 21 []()
+<img src="" alt="">
+<img src="" alt="">
