@@ -71,9 +71,8 @@ Click on the Title to open the Respective Folder
 <img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/AnimatedNavbarClosed.png" alt="Navbar Closed">
 <img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/AnimatedNavbarOpen.png" alt="Navbar Open">
 
-# 21 [Random Emojies]()
-<img src="" alt="">
-<img src="" alt="">
+# 21 [Random Emojies](https://github.com/BhalliBhai/HTML-CSS-JavaScript/tree/main/21.%20Random%20Emojies)
+<img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/RandomEmoji.png" alt="Random Emoji">
 
 # 22 []()
 <img src="" alt="">
