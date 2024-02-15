@@ -75,7 +75,7 @@ Click on the Title to open the Respective Folder
 <img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/RandomEmoji.png" alt="Random Emoji">
 
 # 22 [Fade Out](https://github.com/BhalliBhai/HTML-CSS-JavaScript/tree/main/22.%20Fade%20Out)
-<img src="" alt="">
+<img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/FadeInOut.png" alt="Fade In out">
 
 # 23 []()
 <img src="" alt="">
