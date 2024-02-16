@@ -77,6 +77,6 @@ Click on the Title to open the Respective Folder
 # 22 [Fade Out](https://github.com/BhalliBhai/HTML-CSS-JavaScript/tree/main/22.%20Fade%20Out)
 <img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/FadeInOut.png" alt="Fade In out">
 
-# 23 []()
+# 23 [Simple Calculator]()
 <img src="" alt="">
 <img src="" alt="">
