@@ -80,9 +80,8 @@ Click on the Title to open the Respective Folder
 # 23 [Simple Calculator](https://github.com/BhalliBhai/HTML-CSS-JavaScript/tree/main/23.%20Simple%20Calculator)
 <img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/SimpleCalculator.png" alt="Simple Calculator">
 
-# 24 [Copy & Move]()
-<img src="" alt="">
-<img src="" alt="">
+# 24 [Copy & Move](https://github.com/BhalliBhai/HTML-CSS-JavaScript/tree/main/24.%20Copy%20and%20Move)
+<img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/CopyMove.png" alt="Copy & Move">
 
 # 25 []()
 <img src="" alt="">
