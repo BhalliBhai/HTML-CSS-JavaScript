@@ -83,8 +83,8 @@ Click on the Title to open the Respective Folder
 # 24 [Copy & Move](https://github.com/BhalliBhai/HTML-CSS-JavaScript/tree/main/24.%20Copy%20and%20Move)
 <img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/CopyMove.png" alt="Copy & Move">
 
-# 25 [Progress Steps]()
-<img src="" alt="">
+# 25 [Progress Steps](https://github.com/BhalliBhai/HTML-CSS-JavaScript/tree/main/25.%20Progress%20Steps)
+<img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/ProgressSteps.png" alt="Progress Steps">
 
 # 26 []()
 <img src="" alt="">
