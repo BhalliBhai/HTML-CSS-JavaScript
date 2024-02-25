@@ -91,8 +91,7 @@ Click on the Title to open the Respective Folder
 <img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/PopupFormOpened.png" alt="Popup form Opened">
 
 # 27 [Lazy Loading]()
-<img src="" alt="">
-<img src="" alt="">
+<img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/LazyLoading.png" alt="Lazy Loading">
 
 # 28 []()
 <img src="" alt="">
