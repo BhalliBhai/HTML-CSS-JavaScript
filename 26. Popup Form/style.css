@@ -62,11 +62,10 @@ header {
 }
 
 .modal {
-  background: #fff;
-  border-radius: 5px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
   position: absolute;
   overflow: hidden;
+  color: white;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
@@ -90,16 +89,18 @@ header {
 .modal-form .form-input {
   padding: 8px;
   width: 100%;
+  border-radius: 5px;
+  outline: none;
 }
 
 .close-btn {
   background: transparent;
   border: none;
-  font-size: 25px;
   position: absolute;
-  top: 5px;
+  top: 12px;
   right: 12px;
   cursor: pointer;
+  color: white;
 }
 
 .modal-container .submit-btn {
@@ -109,6 +110,7 @@ header {
   border: none;
   color: #fff;
   cursor: pointer;
+  border-radius: 5px;
 }
 
 /* JavaScript */
