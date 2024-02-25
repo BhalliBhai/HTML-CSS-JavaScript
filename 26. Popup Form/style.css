@@ -97,8 +97,12 @@ header {
   width: 100%;
   border-radius: 5px;
   outline: none;
-  border: 2px solid crimson;
+  border: 2px solid gray;
   color: crimson;
+}
+
+.modal-form .form-input:focus{
+  border: 2px solid black;
 }
 
 .close-btn {
