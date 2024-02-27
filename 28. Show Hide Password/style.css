@@ -57,3 +57,7 @@ input {
   color: rgb(10, 10, 165);
   cursor: pointer;
 }
+
+.eye-close {
+  display: none;
+}

@@ -1,6 +1,15 @@
 const input = document.querySelector("input");
-const eye = document.querySelector("#eye-icon");
+const eyeOpen = document.querySelector(".eye-open");
+const eyeClose = document.querySelector(".eye-close");
 
-eye.addEventListener("click", () => {
-  input.type === "password" ? (input.type = "text") : (input.type = "password");
+eyeOpen.addEventListener("click", () => {
+  input.type = "text";
+  eyeOpen.style.display = "none";
+  eyeClose.style.display = "block";
+});
+
+eyeClose.addEventListener("click", () => {
+  input.type = "password";
+  eyeOpen.style.display = "block";
+  eyeClose.style.display = "none";
 });
