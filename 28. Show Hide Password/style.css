@@ -8,10 +8,15 @@
 body {
   position: relative;
   min-height: 100vh;
-  background-color: rgb(10, 10, 165);
   display: flex;
   justify-content: center;
   align-items: center;
+  background: rgba(0, 37, 254, 0.47);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(0, 37, 254, 0.39);
 }
 
 .container {
