@@ -93,6 +93,10 @@ Click on the Title to open the Respective Folder
 # 27 [Lazy Loading](https://github.com/BhalliBhai/HTML-CSS-JavaScript/tree/main/27.%20Lazy%20Loading)
 <img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/LazyLoading.png" alt="Lazy Loading">
 
-# 28 []()
+# 28 [Show Hide Password]()
+<img src="" alt="">
+<img src="" alt="">
+
+# 29 []()
 <img src="" alt="">
 <img src="" alt="">
