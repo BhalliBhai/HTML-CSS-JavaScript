@@ -102,14 +102,14 @@ Click on the Title to open the Respective Folder
 # 30 [Form Wave](https://github.com/BhalliBhai/HTML-CSS-JavaScript/tree/main/30.%20Form%20Wave)
 <img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/FormWave.png" alt="Form Wave">
 
-# 31 [Full Screen Nav]()
+# 31 [Full Screen Nav](https://github.com/BhalliBhai/HTML-CSS-JavaScript/tree/main/31.%20Full%20Screen%20Navigation)
 <img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/fullScreenNav.png" alt="Full Screen">
 <img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/FullScreenNavigation.png" alt="Full Screen Nav">
 
-# 32 [3D Nav]()
-<img src="" alt="">
-<img src="" alt="">
+# 32 [3D Nav](https://github.com/BhalliBhai/HTML-CSS-JavaScript/tree/main/32.%203D%20Nav)
+<img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/3dNav.png" alt="3D Nav">
+<img src="https://github.com/BhalliBhai/HTML-CSS-JavaScript/blob/main/SnapShots/3dNavActive.png" alt="3D Nav Active">
 
-# 32 []()
+# 33 []()
 <img src="" alt="">
 <img src="" alt="">
